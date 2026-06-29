@@ -1,0 +1,11 @@
+target/
+.idea/
+*.iml
+.env
+*.log
+
+
+
+.env.example
+application-prod.yaml
+application-dev.yaml
